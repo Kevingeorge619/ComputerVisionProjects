@@ -5,9 +5,9 @@ import time
 import os
 from email.message import EmailMessage
 import smtplib
-FROM_EMAIL = "kevingeorge42215@gmail.com"
-TO_EMAIL = "mca2436@rajagiri.edu"
-APP_PASSWORD = "qcrn xczv faum ople"
+FROM_EMAIL = ""
+TO_EMAIL = ""
+APP_PASSWORD = ""
 
 pygame.init()
 pygame.mixer.init()
